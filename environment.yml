@@ -1,0 +1,13 @@
+name: smt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - altair
+  - matplotlib
+  - ipykernel

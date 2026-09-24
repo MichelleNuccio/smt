@@ -1,0 +1,16 @@
+{
+  "download_utc": "2026-09-24T03:02:28.084820+00:00",
+  "centroidi": {
+    "source": "https://gisportal.comune.milano.it/federated/rest/services/Toponomastica/Centroidi_Vie/MapServer/0",
+    "query": "where=1=1; outFields=*; outSR=4326; paginazione 4000; orderByFields=id_integer",
+    "records": 4440,
+    "license": "CC-BY 4.0",
+    "note": "Archivio completo ufficiale dei centroidi, include vie e piazze; filtrare desc_estesa e verificare statocivico. Non sono perimetri delle piazze."
+  },
+  "bagni": {
+    "source": "https://dati.comune.milano.it/dataset/ds630-servizi-igienici-pubblici",
+    "records": 210,
+    "license": "CC-BY 4.0",
+    "note": "Date della scheda e della risorsa non concordanti; non garantisce operatività attuale."
+  }
+}
