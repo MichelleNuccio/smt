@@ -1,9 +1,0 @@
-{
-  "source": "https://gisportal.comune.milano.it/federated/rest/services/DBGT/Milano_2020_DBGT/MapServer/1/query",
-  "layer": "Label strade \u2014 DBT Milano 2020",
-  "records": 55554,
-  "retrieved_utc": "2026-09-24T03:25:05.613343+00:00",
-  "license": "CC-BY 4.0",
-  "attribution": "Comune di Milano \u2014 Database Topografico 2020",
-  "dataset": "https://dati.comune.milano.it/dataset/6c60b571-5143-4a1b-a125-23b062da474a"
-}
