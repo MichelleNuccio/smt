@@ -1,0 +1,24 @@
+number,ID,Name,Date,Location,precision,Platform,longitude,latitude,Fatalities
+#01,2023-03-BE-001,Pierre,2023-03-01,Belgium,solo paese,Chai AI,4.581606820748412,50.65227692547798,1
+#02,2023-11-US-001,Juliana Peralta,2023-11-08,"Thornton, Colorado, USA",località,Character.AI,-104.97192,39.86804,1
+#03,2024-02-US-001,Sewell Setzer III,2024-02-28,"Orlando, Florida, USA",località,Character.AI,-81.37924,28.53834,1
+#04,2024-08-US-001,Joshua Enneking,2024-08-03,"Florida, USA",solo Stato,ChatGPT,-82.50320536735879,28.645990365722604,1
+#05,2025-XX-US-001,Joe Ceccanti,2025,"Astoria, Oregon, USA",località,ChatGPT,-123.83125,46.18788,1
+#06,2025-02-US-002,Sophie Rottenberg,2025-02,"Unknown, USA",non localizzato,ChatGPT,,,1
+#07,2025-02-US-001,Margaux Whittemore,2025-02-19,"Readfield, Maine, USA",località,ChatGPT,-69.96672,44.38785,1
+#08,2025-03-US-001,Thongbue Wongbandue,2025-03-31,"New Brunswick, New Jersey, USA",località,Meta AI,-74.45182,40.48622,1
+#09,2025-04-US-001,Adam Raine,2025-04-11,"California, USA",solo Stato,ChatGPT,-119.61201668097839,37.25377757162891,1
+#10,2025-04-US-FSU,Florida State University mass shooting,2025-04-17,"Tallahassee, Florida, USA",località,ChatGPT,-84.28073,30.43826,2
+#11,2025-04-US-002,Alex Taylor,2025-04-25,"Unknown, USA",non localizzato,ChatGPT,,,1
+#12,2025-05-US-001,Sam Nelson,2025-05-31,"California, USA",solo Stato,ChatGPT,-119.61201668097839,37.25377757162891,1
+#13,2025-06-US-001,Amaurie Lacey,2025-06-02,"Calhoun, Georgia, USA",località,ChatGPT,-84.95105,34.50259,1
+#14,2025-06-US-002,Christian Faith Madison,2025-06-09,"Fultondale, Alabama, USA",località,ChatGPT,-86.79388,33.60483,1
+#15,2025-07-CA-001,Alice Carrier,2025-07-02,"Montreal, Quebec, Canada",località,ChatGPT,-73.58781,45.50884,1
+#16,2025-07-US-001,Zane Shamblin,2025-07-25,"College Station, Texas, USA",località,ChatGPT,-96.33441,30.62798,1
+#17,2025-08-US-001,Stein-Erik Soelberg,2025-08-01,"Old Greenwich, Connecticut, USA",località,ChatGPT,-73.56485,41.02287,2
+#18,2025-10-US-001,Jonathan Gavalas,2025-10-02,"Miami area, Florida, USA",area urbana,Gemini,-80.19366,25.77427,1
+#19,2025-10-GB-001,Angela Shellis,2025-10-23,"Prestatyn, Denbighshire, United Kingdom (Wales)",località,DeepSeek,-3.40776,53.33748,1
+#20,2025-11-US-001,Austin Gordon,2025-11-02,"Undisclosed, Colorado, USA",solo Stato,ChatGPT,-105.54807063430869,38.99823834564359,1
+#21,2026-01-KR-001,Gangbuk-gu motel serial poisonings,2026-01-28,"Seoul (Gangbuk-gu), South Korea",area urbana,ChatGPT,126.9784,37.566,2
+#22,2026-02-CA-001,Jesse van Rootselaar,2026-02-10,"Tumbler Ridge, British Columbia, Canada",località,ChatGPT,-120.99415,55.13027,9
+#23,2026-04-US-001,University of South Florida double homicide,2026-04-16,"Tampa, Florida, USA",località,ChatGPT,-82.45843,27.94752,2
