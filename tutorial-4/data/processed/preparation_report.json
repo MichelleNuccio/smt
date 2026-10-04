@@ -1,0 +1,42 @@
+{
+  "1a original trees": {
+    "rows": 12715,
+    "alive": 12094,
+    "dead": 388,
+    "stumps": 233
+  },
+  "1b original blocks": {
+    "rows": 580,
+    "crs": "EPSG:2263"
+  },
+  "1c original equations": {
+    "rows": 105,
+    "species": 21
+  },
+  "2 diameter validation": {
+    "rows": 12715,
+    "missing_alive_dbh": 1,
+    "dropped": 0
+  },
+  "3 point-in-polygon": {
+    "rows": 12715,
+    "matched": 12448,
+    "unmatched": 267,
+    "dropped": 0
+  },
+  "4 species assignment": {
+    "rows": 12715,
+    "original_species": 102,
+    "dropped": 0
+  },
+  "5 relevant equations": {
+    "rows": 63,
+    "species": 21,
+    "unused_equations": 42
+  },
+  "6 embedded record": {
+    "rows": 12715,
+    "blocks": 580,
+    "dropped": 0
+  }
+}
